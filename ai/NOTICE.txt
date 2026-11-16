@@ -1,0 +1,5 @@
+AI locale: wllama 3.13.0 (MIT), llama.cpp (MIT), Qwen3.5-2B (Apache-2.0).
+GGUF Q4_K_M: bartowski/Qwen_Qwen3.5-2B-GGUF, revision 7d26695454df6de5fbcce2e58681e62dae06ce43.
+SHA256: 57a1085840f497d764a7fc5d346922dbde961efb54cc792ea81d694fd846a1d8
+Fonti: https://github.com/ngxson/wllama — https://github.com/ggml-org/llama.cpp — https://huggingface.co/Qwen/Qwen3.5-2B — https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF
+Il modello viene scaricato solo su richiesta e non è incluso nel sito.
